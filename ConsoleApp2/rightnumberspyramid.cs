@@ -6,7 +6,7 @@
 
 //namespace ConsoleApp2
 //{
-//    internal class diamond
+//    internal class rightnumberspyramid
 //    {
 //        static void Main(string[] args)
 //        {
@@ -14,28 +14,17 @@
 //            int rows = Convert.ToInt32(Console.ReadLine());
 //            for (int i = 1; i <= rows; i++)
 //            {
-//                for (int j = 1; j <= rows - i; j++)
+//                for(int j = 1; j <= rows; j++)
 //                {
 //                    Console.Write(" ");
 //                }
-//                for (int k = 1; k <= 2 * i - 1; k++)
+//                for(int k = 1; k <= i; k++)
 //                {
-//                    Console.Write("*");
+//                    Console.Write(i+"");
 //                }
 //                Console.WriteLine();
 //            }
-//            for (int i = rows - 1; i >= 1; i--)
-//            {
-//                for (int j = 1; j <= rows - i; j++)
-//                {
-//                    Console.Write(" ");
-//                }
-//                for (int k = 1; k <= 2 * i - 1; k++)
-//                {
-//                    Console.Write("*");
-//                }
-//                Console.WriteLine();
-//            }
+
 //        }
 //    }
 //}
