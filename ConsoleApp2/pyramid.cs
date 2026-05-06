@@ -20,7 +20,15 @@
 //                }
 //                for (int k = 1; k <= 2 * i - 1; k++)
 //                {
-//                    Console.Write("*");
+//                    if(i==1||i==rows||k==1||k==2*i-1)
+//                    {
+//                         Console.Write("*");
+//                    }
+//                    else
+//                    {
+//                        Console.Write(" ");
+//                    }
+
 //                }
 //                Console.WriteLine();
 //            }

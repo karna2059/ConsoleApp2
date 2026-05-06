@@ -11,22 +11,22 @@
 //        static void Main(string[] args)
 //        {
 //            Console.WriteLine("enter a number");
-//            int rows=Convert.ToInt32(Console.ReadLine());
-//            for(int i = 1; i <= rows; i++)
+//            int rows = Convert.ToInt32(Console.ReadLine());
+//            for (int i = 1; i <= rows; i++)
 //            {
-//                for(int j=1;j<=rows-i; j++)
+//                for (int j = 1; j <= rows - i; j++)
 //                {
 //                    Console.Write(" ");
 //                }
-//                for (int k=1; k<= 2 * i - 1; k++)
+//                for (int k = 1; k <= 2 * i - 1; k++)
 //                {
-//                    if(k == 1 || k == 2 * i - 1)
+//                    if (k == 1 || k == 2 * i - 1)
 //                    {
 //                        Console.Write("*");
 //                    }
 //                    else
 //                    {
-//                       Console.Write(" ");
+//                        Console.Write(" ");
 //                    }
 
 //                }
@@ -34,15 +34,15 @@
 
 
 //            }
-//            for(int i=rows-1;i>=1;i--)
+//            for (int i = rows - 1; i >= 1; i--)
 //            {
-//                for(int j=1;j<=rows-i; j++)
+//                for (int j = 1; j <= rows - i; j++)
 //                {
 //                    Console.Write(" ");
 //                }
-//                for (int k=1; k<= 2 * i - 1; k++)
+//                for (int k = 1; k <= 2 * i - 1; k++)
 //                {
-//                    if (k == 1|| k == 2 * i - 1)
+//                    if (k == 1 || k == 2 * i - 1)
 //                    {
 //                        Console.Write("*");
 //                    }

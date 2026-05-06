@@ -18,8 +18,10 @@
 //                for (int j = i; j <= rows; j++)
 //                {
 
-
-//                    Console.Write("*");
+                   
+//                        Console.Write("*");
+                    
+                    
 
 
 //                }

@@ -20,7 +20,14 @@
 //            {
 //                for (int j = 1; j <= cols; j++)
 //                {
-//                    Console.Write("* ");
+//                    if(i==1||j==1||i==rows||j==cols)
+//                    {
+//                         Console.Write("* ");
+//                    }
+//                    else
+//                    {
+//                        Console.Write("  ");
+//                    }
 //                }
 //                Console.WriteLine();
 
