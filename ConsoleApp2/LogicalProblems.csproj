@@ -45,24 +45,31 @@
   <ItemGroup>
     <Compile Include="armstrong.cs" />
     <Compile Include="armstrong1.cs" />
+    <Compile Include="checkingstringpailndrome.cs" />
+    <Compile Include="crossstars.cs" />
     <Compile Include="diamond.cs" />
     <Compile Include="diamond1.cs" />
     <Compile Include="factorial.cs" />
+    <Compile Include="fibonacci.cs" />
     <Compile Include="leftpyramid.cs" />
     <Compile Include="largsetnumbers.cs" />
     <Compile Include="multiplication.cs" />
     <Compile Include="palindrome.cs" />
+    <Compile Include="primenumber.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="pyramid.cs" />
     <Compile Include="reverse.cs" />
+    <Compile Include="reversestring.cs" />
     <Compile Include="rightnumberspyramid.cs" />
     <Compile Include="rightpyramid.cs" />
     <Compile Include="starbox.cs" />
     <Compile Include="stars.cs" />
     <Compile Include="stars1.cs" />
+    <Compile Include="stringlengthwithoutusinglength.cs" />
     <Compile Include="sumofnumbers.cs" />
     <Compile Include="tables.cs" />
+    <Compile Include="countingvowels.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
